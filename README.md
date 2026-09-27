@@ -22,7 +22,6 @@ programa y guardándose ante cada cambio.
 ## Estructura del proyecto
 
 ```
-Flores_Ruiz_MaycolJair_U2A1_SAR/
 ├── config.py                  # Patrón Singleton (configuración global)
 ├── task_manager.py            # Lógica principal: agregar, listar, completar, persistencia JSON
 ├── main.py                    # Interfaz de consola (CLI)
