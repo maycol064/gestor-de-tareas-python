@@ -1,0 +1,13 @@
+test_config_values_shared_across_instances (tests.test_task_manager.TestConfigSingleton.test_config_values_shared_across_instances) ... ok
+test_singleton_returns_same_instance (tests.test_task_manager.TestConfigSingleton.test_singleton_returns_same_instance) ... ok
+test_add_task (tests.test_task_manager.TestTaskManager.test_add_task) ... ok
+test_add_task_empty_description_raises (tests.test_task_manager.TestTaskManager.test_add_task_empty_description_raises) ... ok
+test_complete_task (tests.test_task_manager.TestTaskManager.test_complete_task) ... ok
+test_complete_task_invalid_id_returns_false (tests.test_task_manager.TestTaskManager.test_complete_task_invalid_id_returns_false) ... ok
+test_list_tasks_returns_all (tests.test_task_manager.TestTaskManager.test_list_tasks_returns_all) ... ok
+test_tasks_persist_to_json_file (tests.test_task_manager.TestTaskManager.test_tasks_persist_to_json_file) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK
